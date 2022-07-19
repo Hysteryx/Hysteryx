@@ -13,8 +13,6 @@
 
 - 👯 Je travail également sur le projet [Unwary-Life-Project (GTA-RP server)](https://github.com/Unwary-Life-Project)
 
-- 🤝 Je suis intéressé par les projets de groupe sur **FiveM (lua/TS)/Bot & Automatisation de tâches simples/ Sites web**
-
 - 👨‍💻 A part of my projects are available at [https://github.com/Hysteryx](https://github.com/Hysteryx)
 
 - 💬 Ask me about **FiveM & python**

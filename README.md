@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hysteryx" alt="hysteryx" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/hysteryx" target="blank"><img src="https://img.shields.io/twitter/follow/hysteryx?logo=twitter&style=for-the-badge" alt="hysteryx" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/hysteryx?logo=twitter&style=for-the-badge" alt="hysteryx" /></a> </p>
 
-- 🔭 Je travail actuellement sur [un bot discord pour Info-H](https://info-h.fr/)
-
-- 🌱 J'essaye d'apprendre en ce moment **Django & Js**
+- 🌱 J'essaye d'apprendre en ce moment **Django**
 
 - 👯 Je travail également sur le projet [Unwary-Life-Project (GTA-RP server)](https://github.com/Unwary-Life-Project)
 
 - 👨‍💻 A part of my projects are available at [https://github.com/Hysteryx](https://github.com/Hysteryx)
 
-- 💬 Ask me about **FiveM & python**
+- 💬 Ask me about **Typescript & python**
 
 - 📫 How to reach me **Hysteryx.#4614**
 

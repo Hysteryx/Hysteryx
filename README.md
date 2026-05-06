@@ -24,15 +24,6 @@
 
 ---
 
-### 📊 Mes Statistiques GitHub
-
-<p align="center">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Hysteryx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hysteryx&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 🐍 Contribution Graph
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hysteryx&theme=tokyonight" alt="GitHub Streak" />

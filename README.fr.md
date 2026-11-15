@@ -10,7 +10,7 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hysteryx&style=for-the-badge&color=5865F2&labelColor=0d1117&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theo-sicot/)
 
 </div>
 
